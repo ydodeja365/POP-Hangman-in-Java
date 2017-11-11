@@ -1,10 +1,12 @@
-<<<<<<< HEAD
-To run the game from your terminal type:
+To run the game from your terminal :
+=======================================================================
 
 javac -d . *.java
+
 javac run_game.java
+
 java run
-=======
+
 ----------------------Hangman game in Java using Netbeans---------------------
 
 To clone:
